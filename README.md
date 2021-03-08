@@ -1,2 +1,2 @@
 # SAF-ATM
-CZSAF - Advanced tacticle map
+CZSAF - Advance tacticle map
