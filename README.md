@@ -1,5 +1,5 @@
 # SAF-ATM
-CZSAF - Advance tacticle map
+
 Instalujte přes aplikaci Disk Google
 Odkaz do sdílené složky na Google disku s aplikací:
 https://drive.google.com/drive/folders/152flLe6HHJKbI0EM5_dYUTQWYx1qjB3g?usp=sharing
