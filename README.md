@@ -7,8 +7,9 @@ https://drive.google.com/drive/folders/152flLe6HHJKbI0EM5_dYUTQWYx1qjB3g?usp=sha
 
 ## V připravované verzi:
 Aktuálně se vidíme na mapě všichni, ale v této verzi bude vše vidět pouze v rámci týmu. (připravuje se web pro možnost registrace a správu profilu/týmu)
-To znamená, že je třeba být členem nějaého týmu nebo si v profilu tým vytvořit vlastní. Možnost volby týmu bude jak v profilu tak i při registraci. 
+To znamená, že je třeba být členem nějaého týmu nebo si v profilu tým vytvořit vlastní. Možnost volby týmu bude jak v profilu tak i při registraci.
 
+### Aktuální verze a změny
 Změny ve verzi v.1.0.2 (datum 10.03.2021):
  - Informace o dostupnosti nové verze na přihlašovací stránce
  - Možnost změny typu mapy: turistická, satelitní, terénní
