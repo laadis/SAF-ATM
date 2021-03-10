@@ -1,11 +1,12 @@
 # SAF-ATM
 
-Instalujte přes aplikaci Disk Google
+Instalujte přes aplikaci Disk Google.
+
 Odkaz do sdílené složky na Google disku s aplikací:
 https://drive.google.com/drive/folders/152flLe6HHJKbI0EM5_dYUTQWYx1qjB3g?usp=sharing
 
-V následující verzi :
- - Aktuálně se vidíme na mapě všichni, ale v této verzi bude vše vidět pouze v rámci týmu. (připravuje se web pro možnost registrace a správu profilu/týmu)
+V připravované verzi:
+ Aktuálně se vidíme na mapě všichni, ale v této verzi bude vše vidět pouze v rámci týmu. (připravuje se web pro možnost registrace a správu profilu/týmu)
 
 Změny ve verzi v.1.0.2 (datum 10.03.2021):
  - Informace o dostupnosti nové verze na přihlašovací stránce
